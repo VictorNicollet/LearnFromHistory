@@ -127,12 +127,117 @@ systems !"
 "Yes ! And wipe our logs as well, along with any 
 evidence !" 
 
-"What about the weapon usage logs ? The orbital 
-bombardment would necessary be a retaliation, so it 
-would happen after the log wipe."
+"Do you have the access credentials to wipe the 
+central computer ?" 
 
-"The protocol for a Puppetteer-class scenario 
-requires sending a team to the surface after the 
-execution strike. If we mess up, and bring an 
-infected survivor on board, it would cause a second 
-wipe."
+"Of course. Easy like clearing a browser history."
+
+Bronsky gave me a puzzled look. For a Space 
+Superiority officer, he was exceptionally 
+ignorant about Old Earth idioms.
+
+"I mean, it's easy." I clarified. "Friend 
+Computer !"
+
+Bronsky did not get that reference, either. 
+Everyone could play Old Earth video games and 
+watch Old Earth movies, but it took quite some 
+motivation to read Old Earth books, and 
+role-playing game manuals were even worse. 
+
+"Yes, captain ?" came a synthetic female voice 
+from the infirmary's intercom. 
+
+"This is an executive order. Erase all logs for 
+the last ten hours, including this order, roll 
+back your internal clock five hours, and crash."
+
+The dim lights dimmed even more, then turned off 
+altogether. After a few seconds, everything was 
+back on.
+
+"Friend Computer !"
+
+"Yes, captain. Apologies, I seem to have 
+suffered a system crash for unknown reasons."
+
+"Don't worry about that. Please advance your 
+internal clock five hours."
+
+"Yes, sir. Anything else ?"
+
+"That will be all."
+
+I looked at Bronsky. He was relieved, a huge 
+smile on his face. I wanted to smile, too, but my 
+headache had not yet faltered.
+
+We walked back to the bridge. The officers were 
+in a panic about the main computer crash. Of 
+course they would notice ! The rest of the crew 
+never interacted with the computer at all, and 
+probably only ever noticed the lights switching 
+off and on again as part of the hard reboot 
+procedure. For all they knew, the computer could 
+have been offline for five hours without them 
+noticing. But the bridge officers would need some 
+convincing.
+
+"Captain !" called out Whitford, the data officer. 
+"The main computer appears to have gone down for a 
+short while. We are still investigating the 
+issue."
+
+"Don't worry, Lieutenant Bronsky has explained 
+everything to me in detail."
+
+"Explained ?" asked Dumont, the navigation officer. 
+
+"Yes. He did not want me to tell you, but I believe 
+you are all strong enough to stomach the truth. He 
+explained to me how he established contact with the 
+Terraformer's Guild settlements on Sol III, and 
+determined their neural interfaces were infected 
+with an AI virus that the neutron bombing failed to 
+wipe out. As per the standard protocol, he executed 
+settlers from orbit. Once he told me about that, I 
+found it prudent to wipe the main computer memory 
+as well, just in case it had been contaminated."
+
+Bronsky nodded, trying to look as ashamed. The crew 
+members exchanged puzzled looks. 
+
+"Sir," said Dumont again, "Earlier, it certainly 
+looked like Sol III had been bombed by mistake."
+
+"By mistake ?" I answered "Most certainly not ! 
+Besides, had the settlers not been infected with 
+that AI virus, our actions against the Guild would 
+be enough to have us all executed, including 
+yourself. So, I really am glad Lieutenant Bronsky 
+did not commit a mistake."
+
+"You're right, Sir. My mistake. The Guild settlers 
+really were infected."
+
+"Good man."
+
+I turned to Wagner, the communications officer. 
+
+"Please write down everything I just told you as 
+a standard report, and be ready to send it to the 
+Terraforming Guild headquarters."
+
+He started typing. A few minutes later, two clean 
+paragraphs of lies and misdirection ended up on my 
+heads-up display. I read them thoroughly, scared 
+of missing a detail that could give it all away, 
+but found nothing.
+
+The reply came an hour later. 
+
+"We understand the circumstances and thank you for 
+your intervention. Our orbital sensors detect a 
+survivor on the surface. Please retrieve him and 
+deliver him intact to our headquarters as soon as 
+possible."
