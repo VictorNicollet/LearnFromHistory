@@ -66,7 +66,7 @@ craters ? Any idiot would notice that."
 "Watch your mouth, Bronsky. Even though we are both 
 dead men walking, I am still your captain." 
 
-"Yes, sir. I apologize."
+"Yes, sir. I apologise."
 
 He did not look apologetic at all. His eyebrows 
 were flexed, his teeth clenched, and his gaze 
@@ -88,7 +88,7 @@ figure that out. Our only chance is to make it
 look like we had to bomb Sol III even though 
 there were Guild members there."
 
-"Are you thinking of a Puppetteer-class scenario ?"
+"Are you thinking of a Puppeteer-class scenario ?"
 
 He nodded. It made sense, in a way : if we could 
 somehow prove that the Guild expedition was 
@@ -106,7 +106,7 @@ need an infested body as proof, and have no means
 to create one."
 
 "What about a neural interface glitch ? All Guild 
-members wear brain coprocessors." 
+members wear brain co-processors." 
 
 "How is that noticeable from orbit ?"
 
@@ -196,7 +196,7 @@ everything to me in detail."
 "Yes. He did not want me to tell you, but I believe 
 you are all strong enough to stomach the truth. He 
 explained to me how he established contact with the 
-Terraformer's Guild settlements on Sol III, and 
+Terraformers' Guild settlements on Sol III, and 
 determined their neural interfaces were infected 
 with an AI virus that the neutron bombing failed to 
 wipe out. As per the standard protocol, he executed 
@@ -226,7 +226,7 @@ I turned to Wagner, the communications officer.
 
 "Please write down everything I just told you as 
 a standard report, and be ready to send it to the 
-Terraforming Guild headquarters."
+Terraformers' Guild headquarters."
 
 He started typing. A few minutes later, two clean 
 paragraphs of lies and misdirection ended up on my 
